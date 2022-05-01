@@ -11,7 +11,7 @@ Project Description:
 
 -We are planning to add lecture notes of several topics in the end for user's preparation.
 
--There would some fun quiz too.;)
+-There's some fun quiz too.;)
 
 Front-end Technologies: HTML, CSS, SASS, Javascript, Angular
 
