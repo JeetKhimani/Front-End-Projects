@@ -1,9 +1,7 @@
 Team Name: RCB
 
-Team Members:
-Jeet Khimani (002115111)
-Het Shah (001563170)
-Kapil Kadge (002987899)
+Author:
+Jeet Khimani
 
 Project Name: QuizIt
 
