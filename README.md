@@ -1,5 +1,3 @@
-Team Name: RCB
-
 Author:
 Jeet Khimani
 
