@@ -1,0 +1,153 @@
+.main-div{
+    background-image: linear-gradient(to right, rgba(0, 208, 255, 0.7) , rgba(102, 0, 255, 0.7));
+}
+
+/*  CSS for Navigation Panel    */
+.main-div nav{
+    padding: 30px 30px;
+}
+.main-div nav a{
+    text-decoration: none;
+    color: black;
+}
+.nav-link-logo{
+    position: relative;
+    left: -900px;
+}
+nav{
+    text-align: right;
+}
+.nav-span-1{
+    position: relative;
+    left: -40px;
+}
+.nav-span-2{
+    position: relative;
+    left: -20px;
+}
+.homepage-signup-btn{
+    position: relative;
+    left: -10px;
+}
+.main-div button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(45, 45, 45, 0.376);
+    border: 0px;
+    cursor: pointer;
+    color: whitesmoke;
+}
+/*  CSS for Navigation Panel ends here*/
+
+.body{
+    text-align: center;
+}
+
+/*  Footer CSS  */
+.footer{
+    padding: 30px 30px;
+    background-color: rgba(102, 102, 102, 0.498);
+}
+
+.footer-address a{
+    text-decoration: none;
+    color: black;
+}
+.img-facebook{
+    width: 35px;
+    position: absolute;
+    top: -15px;
+}
+
+.img-twitter{
+    width: 35px;
+    position: absolute;
+    top: -15px;
+    left: 80px;
+}
+
+.img-instagram{
+    width: 35px;
+    position: absolute;
+    top: -15px;
+    left: 40px;
+}
+
+.footer-socialmedia{
+    position: absolute;
+    left: 1100px;
+}
+/*  Footer CSS ends here */
+
+.body-title{
+    text-align: center;
+}
+
+.body-title{
+    padding: 50px;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.body-content{
+    width: 700px;
+    position: relative;
+    left: 250px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.body-benefits{
+    padding: 30px;
+
+}
+
+.body-benefits-title{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.body-benefits-content{
+    text-align: center;
+}
+
+.body-benefits-content ul, .body-types-content ul{
+    list-style-type: none;
+}
+
+.body-types{
+    padding: 30px;
+
+}
+
+.fm, .fmm{
+    text-align: center;
+}
+
+.body-types-title{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.body-types-content{
+    font-family: cursive;
+}
+
+.img-facebook{
+    width: 35px;
+    position: absolute;
+    top: -15px;
+}
+
+.img-twitter{
+    width: 35px;
+    position: absolute;
+    top: -15px;
+    left: 80px;
+}
+
+.img-instagram{
+    width: 35px;
+    position: absolute;
+    top: -15px;
+    left: 40px;
+}
